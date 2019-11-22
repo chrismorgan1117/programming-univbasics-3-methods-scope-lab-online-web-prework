@@ -14,5 +14,5 @@ def link
   puts phrase
 end 
 def any_phrase
-  puts $this_phrase
+  $this_phrase
 end 
