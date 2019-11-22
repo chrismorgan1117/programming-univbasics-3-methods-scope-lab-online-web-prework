@@ -1,4 +1,4 @@
-$this_phrase = "Do A Barrel Role!"
+phrase = "Do A Barrel Role!"
 
 def mario
   phrase = "It's-a me, Mario!"
@@ -13,6 +13,6 @@ def link
   phrase = "It's Dangerous To Go Alone! Take This."
   puts phrase
 end 
-def any_phrase
-  $this_phrase
+def any_phrase(phrase)
+  
 end 
